@@ -33,16 +33,31 @@ export const TECH_STACK = [
   'JavaScript',
   'TypeScript',
   'Redux',
+  'HTML',
   'CSS',
   'TailwindCSS',
   'Ant Design',
   'Material UI',
+  'Formik Form',
+  'React Hook Form',
   'REST API',
   'MongoDB',
   'MySQL',
+  'PostGresql',
+  'Prisma',
+  'JWT',
+  'Zod',
+  'Drizzle',
+  'Express',
   'GitHub',
   'Jira',
   "Responsive Web",
+];
+export const TECH_SOFT_SKILL = [
+  'Teamwork',
+  'Adaptability',
+  'Learning Agility',
+  'Time Management and Prioritization',
 ];
 
 export const CONTACTS = {
